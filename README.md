@@ -17,6 +17,8 @@ Open source constituent relationship management (CRM) for non-profits, NGOs and 
 
 ![](https://skvare.com/sites/skvare.com/files/civicrm-contact-record-skvare.png)
 
+## Official Demo
+https://civicrm.org/demo
 ## Documentation
 
  * Official documentation: https://docs.civicrm.org/
